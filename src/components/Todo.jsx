@@ -5,7 +5,7 @@ const Todo = () => {
     fName: "",
     lName: "",
     email: "",
-    email: "",
+  
 
   });
   const [user, setUser] = useState([]);
